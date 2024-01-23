@@ -1,0 +1,13 @@
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\bin\Debug\net8.0\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\bin\Debug\net8.0\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\bin\Debug\net8.0\Capa de datos.pdb
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\bin\Debug\net8.0\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.csproj.AssemblyReference.cache
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.AssemblyInfoInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.AssemblyInfo.cs
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.csproj.CopyComplete
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.dll
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\refint\Capa Negocio.dll
+C:\proyectos\MicrocreditoDesktop\Capa Negocio\obj\Debug\net8.0\Capa Negocio.pdb

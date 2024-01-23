@@ -1,0 +1,80 @@
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.exe
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.deps.json
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.runtimeconfig.json
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.dll
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.pdb
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\App.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS_MarkupCompile.cache
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS_MarkupCompile.lref
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\MainWindow.baml
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.g.resources
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.AssemblyInfoInputs.cache
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.AssemblyInfo.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.csproj.CoreCompileInputs.cache
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.dll
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\refint\CreditoGS.dll
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.pdb
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.genruntimeconfig.cache
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\ref\CreditoGS.dll
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Negocio.dll
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Negocio.pdb
+C:\proyectos\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa de datos.pdb
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.csproj.AssemblyReference.cache
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.csproj.CopyComplete
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CustomControl\BindablePasswordBox.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\MainView.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CustomControl\BindablePasswordBox.baml
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\MainView.baml
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\CodigoBarras.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\CodigoBarras.baml
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\ModalWindow.g.cs
+C:\proyectos\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\ModalWindow.baml
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.exe
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.deps.json
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.runtimeconfig.json
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\CreditoGS.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa de datos.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Entidad.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Negocio.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Entidad.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa Negocio.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\bin\Debug\net7.0-windows\Capa de datos.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CustomControl\BindablePasswordBox.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\CodigoBarras.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\MainView.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\ModalWindow.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS_MarkupCompile.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS_MarkupCompile.lref
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CustomControl\BindablePasswordBox.baml
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\CodigoBarras.baml
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\MainView.baml
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\ModalWindow.baml
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.g.resources
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\refint\CreditoGS.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\CreditoGS.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\ref\CreditoGS.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\Loader.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\CreditoGS\obj\Debug\net7.0-windows\View\Loader.baml

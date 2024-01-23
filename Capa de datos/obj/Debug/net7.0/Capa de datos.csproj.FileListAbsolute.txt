@@ -1,0 +1,30 @@
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa de datos.deps.json
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa de datos.pdb
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.csproj.AssemblyReference.cache
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.AssemblyInfoInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.AssemblyInfo.cs
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.csproj.CoreCompileInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.csproj.CopyComplete
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\refint\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.pdb
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\ref\Capa de datos.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa de datos.deps.json
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa de datos.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa de datos.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa Entidad.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\bin\Debug\net7.0\Capa Entidad.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\refint\Capa de datos.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\Capa de datos.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa de datos\obj\Debug\net7.0\ref\Capa de datos.dll

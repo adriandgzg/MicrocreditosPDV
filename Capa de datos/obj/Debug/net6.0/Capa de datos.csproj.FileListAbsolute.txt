@@ -1,0 +1,15 @@
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net6.0\Capa de datos.deps.json
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net6.0\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net6.0\Capa de datos.pdb
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net6.0\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\bin\Debug\net6.0\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.csproj.AssemblyReference.cache
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.AssemblyInfoInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.AssemblyInfo.cs
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.csproj.CoreCompileInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.csproj.CopyComplete
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\refint\Capa de datos.dll
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\Capa de datos.pdb
+C:\proyectos\MicrocreditoDesktop\Capa de datos\obj\Debug\net6.0\ref\Capa de datos.dll

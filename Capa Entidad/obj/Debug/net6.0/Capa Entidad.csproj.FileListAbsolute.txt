@@ -1,0 +1,11 @@
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\bin\Debug\net6.0\Capa Entidad.deps.json
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\bin\Debug\net6.0\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\bin\Debug\net6.0\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\Capa Entidad.AssemblyInfo.cs
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\refint\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net6.0\ref\Capa Entidad.dll

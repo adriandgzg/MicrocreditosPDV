@@ -1,0 +1,22 @@
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\bin\Debug\net7.0\Capa Entidad.deps.json
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\bin\Debug\net7.0\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\bin\Debug\net7.0\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.AssemblyInfo.cs
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\refint\Capa Entidad.dll
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.pdb
+C:\proyectos\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\ref\Capa Entidad.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\bin\Debug\net7.0\Capa Entidad.deps.json
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\bin\Debug\net7.0\Capa Entidad.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\bin\Debug\net7.0\Capa Entidad.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\refint\Capa Entidad.dll
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\Capa Entidad.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2022\MicrocreditoDesktop\Capa Entidad\obj\Debug\net7.0\ref\Capa Entidad.dll
